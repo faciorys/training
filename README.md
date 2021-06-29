@@ -1,1 +1,1 @@
-# training
+# тренинг по курсу Introduction To Java.
