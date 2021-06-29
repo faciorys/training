@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<company>
+    <students>
+        <student age="19" characteristic="Нормальный студентик" course="2" name="Иванов"/>
+        <student age="20" characteristic="Нормальный студент" course="2" name="Степанов"/>
+        <student age="22" characteristic="Лодырь" course="3" name="Ложкин"/>
+        <student age="44" characteristic="Сторожит все" course="2" name="Демьянов"/>
+        <student age="21" characteristic="Отличник БРСМ" course="1" name="Алексев"/>
+        <student age="62" characteristic="Сторож" course="314" name="Заболотный"/>
+        <student age="22" characteristic="Самая красивая, умная и добрая" course="4" name="Алена"/>
+    </students>
+</company>
