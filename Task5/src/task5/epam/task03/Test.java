@@ -2,6 +2,10 @@ package task5.epam.task03;
 
 import java.time.LocalDate;
 
+/*
+* Создать класс Календарь с внутренним классом, с помощью объектов которого можно хранить информацию о
+* выходных и праздничных днях.
+* */
 public class Test {
     public static void main(String[] args) {
         Calendar calendar2021 = new Calendar();
