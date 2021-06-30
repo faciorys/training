@@ -3,6 +3,10 @@ package task5.epam.task01;
 import java.io.*;
 import java.util.Scanner;
 
+/*
+* Создать объект класса Текстовый файл, используя классы Файл, Директория. Методы: создать, переименовать,
+* вывести на консоль содержимое, дополнить, удалить.
+* */
 public class Files {
     public static void main(String[] args) throws IOException {
         File file = new File("C:\\Users\\Alex\\IdeaProjects\\java-traning\\Basics_of_OOP\\src\\task5\\epam\\task01\\mynewfile.txt");
